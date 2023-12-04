@@ -1,7 +1,7 @@
 package main
 
-import "github.com/diegoadborges/advent-of-code-2023/day1"
+import "github.com/diegoadborges/advent-of-code-2023/day2"
 
 func main() {
-	day1.SumFirstNumAndLast()
+	day2.PossibleGame()
 }
